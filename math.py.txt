@@ -4,7 +4,8 @@ def add return(x,y)
 	 
 #subtract implementation	 
 def subtract return(x,y)
-       pass
+       return x-y:
+	   
 #multiply implementation	   
 def multiply return(x,y)
       pass
