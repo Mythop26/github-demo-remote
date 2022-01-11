@@ -1,8 +1,12 @@
+#add implementation
 def add return(x,y)
      pass
+#subtract implementation	 
 def subtract return(x,y)
        pass
+#multiply implementation	   
 def multiply return(x,y)
       pass
+#divide implementation	  
 def divide return(x,y)
     pass
