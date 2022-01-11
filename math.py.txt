@@ -1,0 +1,8 @@
+def add return(x,y)
+     pass
+def subtract return(x,y)
+       pass
+def multiply return(x,y)
+      pass
+def divide return(x,y)
+    pass
